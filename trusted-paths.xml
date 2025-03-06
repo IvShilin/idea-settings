@@ -1,0 +1,76 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/CodeProjects/CG1" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/Calculator-gRPC" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/Calculator-gRPC/calculator-server" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/Calculator-gRPC/grpcFromCatrula" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/Calculator-gRPC/rpcTest" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/LLA-lab-3" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/aurora-project" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/aurora-project/answer-scanner-app" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/aurora-project/aurora-app-special/android" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/aurora-project/aurora-app/android" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/bibuyanov" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/compiler-lab-1" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/egast-project" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/gitviewer" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/grpc-java-course" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/grpc-kotlin" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/grpcFromCatrula" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/kotlin-grpc-client" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/kotlin-grpc-server" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/kotlin-monitors-os-5" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/kotlin-semaphores-os-5" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/learning" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/lla-lab-2-3" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/lla-lab-3" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/lla-lab-3-client" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/lla-lab-3-server" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/lla-labs/lla-lab-3" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/lla/lla-labs" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/lla/lla-labs/lla-lab-3" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/lla/lla-labs/lla-lab-3/lla-lab-3-server" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/lla/manual/lla-lab-3-client" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/lla/manual/lla-lab-3-server" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/mai-trpo-lab-3-backend" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/os5" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/ranked-service" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/socket-client" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/socket-server" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/untitled" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/untitled1" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/untitled2" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/untitled3" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/untitled4" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/web-course-backend" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/web-course-work" value="true" />
+        <entry key="$USER_HOME$/Documents/ClientJava" value="true" />
+        <entry key="$USER_HOME$/Documents/lab2_server" value="true" />
+        <entry key="$USER_HOME$/Documents/mai-trpo-lab-3-backend" value="true" />
+        <entry key="$USER_HOME$/Downloads/APP" value="true" />
+        <entry key="$USER_HOME$/Downloads/Client" value="true" />
+        <entry key="$USER_HOME$/Downloads/SocketChat" value="true" />
+        <entry key="$USER_HOME$/Downloads/VAC_v_1.4_Cyrillic" value="true" />
+        <entry key="$USER_HOME$/Downloads/m3o-10b-21-team1-dev-team_1" value="true" />
+        <entry key="$USER_HOME$/Downloads/nfc-validation" value="true" />
+        <entry key="$USER_HOME$/InformationProtection/labs/Lab2" value="true" />
+        <entry key="$USER_HOME$/KotlinProjects/mai-trpo-lab-3-backend" value="true" />
+        <entry key="$USER_HOME$/Mai/7sem/clouds/labs/3/project/backup" value="true" />
+        <entry key="$USER_HOME$/MosMetroTech/Android/metro-moscow-app/mosmetro-android" value="true" />
+        <entry key="/var/folders/f5/kzr90m_x2wx3m7y5hm7q_dl80000gn/T/learning.zip1972029891976492757" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/KotlinProjects" />
+        <option value="$USER_HOME$/CodeProjects/lla-labs" />
+        <option value="$USER_HOME$/CodeProjects/lla/manual" />
+        <option value="$USER_HOME$/CodeProjects" />
+      </list>
+    </option>
+  </component>
+</application>

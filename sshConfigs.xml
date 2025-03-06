@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ivanshilin.tech" id="3459a9af-27c1-4ada-ae03-3f623e9990dc" keyPath="$USER_HOME$/.ssh/vm-1d2f49_rsa_id" port="22" nameFormat="DESCRIPTIVE" username="ivn-sln" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
